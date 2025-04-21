@@ -4,6 +4,7 @@
 
 This Streamlit web app presents our final project for INFO 5368: Practical Applications in Machine Learning. We built an end-to-end text classification system that analyzes Amazon product reviews to predict whether the sentiment is positive or negative.
 
+## MUST download; file too big to upload onto Git
 Dataset
 This project uses the Amazon Fine Food Reviews dataset from Kaggle:
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
